@@ -1,0 +1,38 @@
+body{
+    background-color: #222;
+}
+
+.relogio{
+    text-align: center;
+    background-color: rgb(80, 80, 253);
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+
+p{
+    font-size: 2em;
+    color: white;
+}
+
+button{
+    height: 3em;
+    width: 5em;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.start-btn{
+    background-color: green;
+}
+.pause-btn{
+    background-color: gray;
+}
+.stop-btn{
+    background-color: red;
+}
